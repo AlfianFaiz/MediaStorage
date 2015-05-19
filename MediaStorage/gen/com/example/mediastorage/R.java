@@ -1080,6 +1080,13 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020057;
     }
     public static final class id {
+        public static final int DescriptionEditText=0x7f090040;
+        public static final int DescriptionTextView=0x7f09003f;
+        public static final int ReturnedImageView=0x7f09003c;
+        public static final int SaveDataButton=0x7f090042;
+        public static final int TakePictureButton=0x7f090041;
+        public static final int TitleEditText=0x7f09003e;
+        public static final int TitleTextView=0x7f09003d;
         public static final int action_bar=0x7f09001c;
         public static final int action_bar_activity_content=0x7f090001;
         public static final int action_bar_container=0x7f09001b;
@@ -1091,7 +1098,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f090002;
         public static final int action_menu_presenter=0x7f090003;
         public static final int action_mode_close_button=0x7f090024;
-        public static final int action_settings=0x7f09003c;
+        public static final int action_settings=0x7f090043;
         public static final int activity_chooser_view_content=0x7f090025;
         public static final int always=0x7f09000f;
         public static final int beginning=0x7f090016;
